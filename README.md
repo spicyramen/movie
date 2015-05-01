@@ -1,2 +1,3 @@
 # movie
-Udacity Movie trailer
+Udacity Movie trailer project
+
