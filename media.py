@@ -18,6 +18,7 @@ class Movie():
         else:
             return "Trailer property not defined"
 
+
     # Return story line text
     def __str__(self):
         if self.storyline != None:
