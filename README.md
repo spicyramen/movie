@@ -1,4 +1,5 @@
-# Movie Program version 1.0 May/9/2015
+# Movie Program 
+## Version 1.0 May/9/2015
 
 Udacity Movie trailer project
 
@@ -11,12 +12,12 @@ This project creates a web page with a Movie catalogue based on Movie objects de
 
 The following is the list of file directories
 
-├── LICENSE
-├── README.md
-├── entertainment_center.py
-├── fresh_tomatoes.html
-├── fresh_tomatoes.py
-├── media.py
+* LICENSE
+* README.md
+* entertainment_center.py
+* fresh_tomatoes.html
+* fresh_tomatoes.py
+* media.py
 
 ## Description
 ------------------------------------------------------------------------------------------------------
