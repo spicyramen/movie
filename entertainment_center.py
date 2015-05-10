@@ -8,22 +8,22 @@ import fresh_tomatoes
 
 godfather = media.Movie('The Godfather',
                         'American mafia is born',
-                        'http://ia.media-imdb.com/images/M/MV5BMjEyMjcyNDI4MF5BMl5BanBnXkFtZTcwMDA5Mzg3OA@@._V1_SX214_AL_.jpg',
+                        'http://bit.ly/1u2LOBu',
                         'https://www.youtube.com/watch?v=vjPmaneLadQ')
 
 avatar = media.Movie('Avatar',
                      'A marine on alien planet',
-                     'http://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg',
+                     'http://bit.ly/1F6nt8g',
                      'https://www.youtube.com/watch?v=cRdxXPV9GNQ')
 
 trainspotting = media.Movie('Trainspotting',
                             'Crazy life',
-                            'http://upload.wikimedia.org/wikipedia/en/7/71/Trainspotting_ver2.jpg',
+                            'http://bit.ly/1Jzbujd',
                             'https://www.youtube.com/watch?v=Sl6O7sad9hI')
 
 amelie = media.Movie('Amelie',
                      'Le fabuleux destin d Amelie Poulain',
-                     'http://upload.wikimedia.org/wikipedia/en/5/53/Amelie_poster.jpg',
+                     'http://bit.ly/1xMfTfw',
                      'https://www.youtube.com/watch?v=B-uxeZaM-VM')
 
 # We create an array of movies

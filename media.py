@@ -12,16 +12,16 @@ class Movie():
      Example:
      the_godfather = media.Movie('The Godfather',
                                 'American mafia is born',
-                                'http://ia.media-imdb.com/images/M/MV5BMjEyMjcyNDI4MF5BMl5BanBnXkFtZTcwMDA5Mzg3OA@@._V1_SX214_AL_.jpg',
+                                'http://bit.ly/1u2LOBu',
                                 'https://www.youtube.com/watch?v=vjPmaneLadQ')
 
     """
 
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
-        self.title = movie_title
-        self.storyline = movie_storyline
+    def __init__(self, title, storyline, poster_image, trailer_video):
+        self.title = title
+        self.storyline = storyline
         self.poster_image_url = poster_image
-        self.trailer_youtube_url = trailer_youtube
+        self.trailer_youtube_url = trailer_video
 
     # Will play movie using Youtube trailer property in web page
     def show_trailer(self):
