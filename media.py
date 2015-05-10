@@ -5,7 +5,10 @@ import webbrowser
 
 
 class Movie():
-    """This class creates a Movie instance and provides a way to save Movie information"""
+
+    """This class creates a Movie instance and provides a way
+    to save Movie information"""
+
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
 
     """ We initialize class with title, storyline, image and youtube trailer URL
